@@ -5,7 +5,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/Shanidkk00/renamerbot",
+    "repository": "https://github.com/sherlocksha1/renamershabot",
     "success_url": "https://telegram.dog/mo_tech_group",
     "env": {
         "APP_ID": {
