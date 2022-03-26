@@ -13,7 +13,7 @@ async def start(client,message):
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup([[
           InlineKeyboardButton("GROUP" ,url="https://t.me/new_movies_group_2021"), 
-	  InlineKeyboardButton("GROUP2", url="https://t.me/new_movies_group_2021")
+	  InlineKeyboardButton("GROUP2", url="https://t.me/MOVIES_UPDATE_2021")
           ],[
           InlineKeyboardButton("🧩 JOIN 🧩", url="https://t.me/new_movies_group_2021")
           ]]
